@@ -52,7 +52,8 @@ Tabel `Students` digunakan untuk menyimpan informasi mahasiswa. Pengujian dilaku
 
 ### 5. Pengujian Relasi Menggunakan `INNER JOIN`
 
-![Hasil INNER JOIN](https://github.com/user-attachments/assets/e1cbff2e-14eb-42aa-86d8-3416195a5f67)
+![Hasil INNER JOIN](<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/f39974db-4a5c-4586-813c-a0e1033f141c" />
+)
 
 Relasi antara tabel `Programs` dan `Students` diuji menggunakan `INNER JOIN` untuk menggabungkan data mahasiswa dengan program studi yang terkait.
 
